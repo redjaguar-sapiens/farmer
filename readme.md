@@ -4,8 +4,11 @@ Adds farming decorations and equipment to Sapiens.
 
 ### Up Next
 
-- Haystack (1 log, 6 branches, 2 flax twine)
+- Haystack (7 branches, 2 flax twine)
 - Wooden hoe
+- Sickle
+- Fences
+- Stone wall
 
 ### Potential
 
